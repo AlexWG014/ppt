@@ -1,6 +1,6 @@
 /**
  * Clase principal.
- * Versión 2.0
+ * VersiÃ³n 2.0
  * Autor: Profesor Entorno Desarrollo/Alumno Alex Miralles
  */
 public class Game {
@@ -12,7 +12,7 @@ public class Game {
 	}
 
 	private void welcome() {
-		System.out.println("Bienvenido a nuestro pequeño juego: Piedra Papel Tijeras Lagarto Spock :-D");
+		System.out.println("Bienvenido a nuestro pequeÃ±o juego: Piedra Papel Tijeras Torito Sepia :-D");
 	}
 
 	private void printHelp() {
